@@ -2,18 +2,10 @@ apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
 
 android {
-    signingConfigs {
-        release {
-            keyAlias ''
-            keyPassword ''
-            storeFile file('/Users/avjindersinghsekhon/androidapps.jks')
-            storePassword ''
-        }
-    }
     compileSdkVersion 23
     buildToolsVersion "23.0.1"
     defaultConfig {
-        applicationId "com.avjindersinghsekhon.minimaltodo"
+        applicationId "com.rubenroy.minimaltodo"
         minSdkVersion 16
         targetSdkVersion 23
         versionCode 3

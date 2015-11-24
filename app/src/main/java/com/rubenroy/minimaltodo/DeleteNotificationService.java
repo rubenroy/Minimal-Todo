@@ -1,4 +1,4 @@
-package com.example.avjindersinghsekhon.minimaltodo;
+package com.rubenroy.minimaltodo;
 
 import android.app.IntentService;
 import android.content.Intent;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.avjindersinghsekhon.minimaltodo" >
+    package="com.rubenroy.minimaltodo" >
 
     <!--We set theme to DarkTheme because when the app opens it shows
     a white screen if our theme here is LightTheme. The screen is shown for
